@@ -1,0 +1,31 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 本地配置文件
+.env
+
+# 个人API密钥配置
+# config.ini
+
+# IDE相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时生成的声音文件
+resources/sounds/*.wav
