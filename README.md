@@ -31,8 +31,9 @@ python main.py
 
 # 演示视频
 <video width="320" height="240" controls>
-    <source src="resources\introMP4\WeChat_20250510112710.mp4" type="video/mp4">
+    <source src="https://www.bilibili.com/video/BV1tEVdzREmb/" type="video/mp4">
 </video>
+
 ## 注意事项
 
 - 需要有效的Gemini API密钥（love\utils\constants.py）  
